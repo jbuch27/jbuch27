@@ -2,7 +2,7 @@
     <img src="./assets/header.png" alt="Profile Banner">
     <br><br><br>
     <a href="https://git.io/typing-svg">
-        <img align="middle" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=%23EA89B4&size=12&center=true&vCenter=true&width=500&lines=Hello%2C+worldd%21%21%21;This+is+Jo+speaking+%3C3;And+i%27m+a+computer+science+student%21+%3AO;And+i+really+hope+u+like+my+profile+%3AD" alt="Typing Text Animation">
+        <img align="middle" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=%23EA89B4&size=12&center=true&vCenter=true&width=500&lines=Hello%2C+worldd%21%21%21;This+is+Jo+speaking+%3C3;I%27m+a+computer+science+student%21+%3AO;And+i+hope+u+like+my+profile+%3AD" alt="Typing Text Animation">
     </a>
     <img align="middle" src="./assets/hk_kisses.gif" alt="HK Kisses" height="150">
 </div>
